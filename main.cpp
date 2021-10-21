@@ -5,7 +5,7 @@ int main() {
 
 
 	std:cout << endl << 1+1 << endl
-
+	std:cout << "GITHUB" << endl
 	std:cout << "Hello old master!" << endl
 	return 0;
 }
